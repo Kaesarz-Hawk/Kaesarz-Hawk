@@ -41,7 +41,6 @@ I am eager to begin my professional journey through an internship where I can ga
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
 ![GLM](https://img.shields.io/badge/GLM-00A67E?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-7B61FF?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge)
 ---
 
