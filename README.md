@@ -26,25 +26,23 @@ I am eager to begin my professional journey through an internship where I can ga
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-111111?style=for-the-badge)
 
-### 🖥️ Development
+### 🖥️ Development Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-### 🎮 Graphics
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![GLFW](https://img.shields.io/badge/GLFW-1E88E5?style=for-the-badge)
-![GLM](https://img.shields.io/badge/GLM-444444?style=for-the-badge)
-
 ### 🤖 AI & Productivity
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![GLM](https://img.shields.io/badge/GLM-00A67E?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-7B61FF?style=for-the-badge)
+![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge)
 ---
 
 # 📊 GitHub Stats:
