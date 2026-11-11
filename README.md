@@ -85,12 +85,11 @@ Passionate aspiring software developer with a strong foundation in modern progra
 
 # 🧠 Competitive Programming Stats
 
-<!-- ⚠️ REPLACE YOUR_CF_HANDLE, YOUR_LC_USERNAME, AND YOUR_CC_USERNAME BELOW ⚠️ -->
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR_LC_USERNAME/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/YOUR_CC_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Kaesarz.exe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KawsarHoque/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/cheff_kaesarz)
 
 </div>
 
@@ -98,13 +97,13 @@ Passionate aspiring software developer with a strong foundation in modern progra
 
 <div align="center">
   <!-- Live Codeforces Stats Card -->
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_HANDLE&theme=tokyonight&force_username=true&border_color=a855f7" height="190" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/Kaesarz.exe">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kaesarz.exe&theme=tokyonight&force_username=true&border_color=a855f7" height="190" alt="Codeforces Stats" />
   </a>
 
   <!-- Live LeetCode Stats Card -->
-  <a href="https://leetcode.com/YOUR_LC_USERNAME">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LC_USERNAME?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="190" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/KawsarHoque/">
+    <img src="https://leetcard.jacoblin.cool/KawsarHoque?theme=tokyonight&font=Fira%20Code&ext=heatmap" height="190" alt="LeetCode Stats" />
   </a>
 </div>
 
