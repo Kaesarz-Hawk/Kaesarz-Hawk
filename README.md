@@ -109,14 +109,6 @@ Passionate aspiring software developer with a strong foundation in modern progra
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaesarz-Hawk&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
 # 📊 Complete Language Usage & GitHub Analytics
 
 ### 🗂️ Full Language Breakdown (Across Entire GitHub)
@@ -145,14 +137,14 @@ Passionate aspiring software developer with a strong foundation in modern progra
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaesarz-Hawk&theme=tokyonight" width="95%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaesarz-Hawk&theme=tokyonight" height="180" alt="GitHub Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaesarz-Hawk&theme=tokyonight&utcOffset=6" height="180" alt="Productive Coding Time" />
 </div>
 
 <br/>
 
-<!-- Full Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaesarz-Hawk&theme=tokyo-night&hide_border=false&area=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaesarz-Hawk&theme=tokyonight" width="95%" alt="Profile Details" />
 </div>
 
 ---
